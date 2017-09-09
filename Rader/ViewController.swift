@@ -62,7 +62,7 @@ class ViewController: UIViewController {
         avatar.layer.masksToBounds = true
         self.view.addSubview(avatar)
         
-#if false
+#if true
         /// CABasicAnimation
         let rotationAnimation = CABasicAnimation(keyPath: "transform.rotation.z")
         rotationAnimation.toValue = Double.pi * 2
