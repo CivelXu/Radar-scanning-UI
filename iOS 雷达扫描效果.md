@@ -153,4 +153,8 @@ angle 值得 累加
 欢迎 给我留言 留下链接 我会去看的 
 如果本篇文章有错误的地方 还请麻烦指正 
  
+### Link 
 
+* [个人博客](http://civelxu.com/2017/09/10/iOS%20雷达扫描效果/)
+* [简书](http://www.jianshu.com/p/75498fdc2974)
+* [GitHub Code](https://github.com/CivelXu/Radar-scanning-UI)
